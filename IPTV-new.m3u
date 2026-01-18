@@ -5,7 +5,7 @@ http://192.168.3.1:8686/rtp/239.254.96.93:8532
 http://192.168.3.1:8686/rtp/239.254.96.41:8220
 #EXTINF:-1 tvg-id="3" tvg-name="厦门卫视",厦门卫视
 http://192.168.3.1:8686/rtp/239.69.1.127:10400
-#EXTINF:-1 tvg-id="4" tvg-name="CCTV-1", CCTV-1
+#EXTINF:-1 tvg-id="4" tvg-name="CCTV-1",CCTV-1
 http://192.168.3.1:8686/rtp/239.254.96.3:7992
 #EXTINF:-1 tvg-id="5" tvg-name="CCTV-2",CCTV-2
 http://192.168.3.1:8686/rtp/239.254.96.154:8998
